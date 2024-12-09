@@ -1,4 +1,4 @@
-# KD Jayakody
+# Tharoon Naveedya
 
 <div align="center">
   
@@ -11,22 +11,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=kdjayakody&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
-## 👨‍💻 About Me
-
-```typescript
-const KDJayakody = {
-    location: "Sri Lanka 🇱🇰",
-    education: "MBA & IT Specialist",
-    roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
-    currentFocus: ["Operating Systems", "Cloud Architecture", "Advanced System Design"],
-    communities: {
-        founder: ["KDJ Community"],
-        member: ["AI Sri Lanka", "OpenAI Developers"]
-    },
-    lifePhilosophy: "Learning something new every day 🚀"
-};
-```
 
 ## 🛠️ Tech Arsenal
 
