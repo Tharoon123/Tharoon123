@@ -7,22 +7,6 @@
   
 </div>
 
-## 👨‍💻 About Me
-
-```typescript
-const KDJayakody = {
-    location: "Sri Lanka 🇱🇰",
-    education: "MBA & IT Specialist",
-    roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
-    currentFocus: ["Operating Systems", "Cloud Architecture", "Advanced System Design"],
-    communities: {
-        founder: ["KDJ Community"],
-        member: ["AI Sri Lanka", "OpenAI Developers"]
-    },
-    lifePhilosophy: "Learning something new every day 🚀"
-};
-```
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
