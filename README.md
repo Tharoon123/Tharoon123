@@ -1,4 +1,6 @@
-# A.M. Tharoon Naveedya
+<div align="right">
+  # A.M. Tharoon Naveedya
+</div>
 
 
 <div align="right">
