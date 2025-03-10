@@ -1,6 +1,9 @@
-<div align="right">
-  # A.M. Tharoon Naveedya
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+
+<div align="right" style="font-family: 'Fira Sans', sans-serif; font-size: 24px;">
+  Tharoon Naveedya
 </div>
+
 
 
 <div align="right">
