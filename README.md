@@ -3,7 +3,7 @@
 
 <div align="right">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=BSC+%26+Software+Engineer;Mobile+App+Developer;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Software+Engineer;Mobile+App+Developer;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect;DevOps+Practices;R&D)
   
 </div>
 
