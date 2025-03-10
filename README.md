@@ -1,7 +1,7 @@
 <div align="right">
-  <h2>
+  <h>
     Tharoon Naveedya
-  </h2>
+  </h>
 </div>
 
 
