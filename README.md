@@ -1,8 +1,7 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
-</head>
-<div align="right" style="font-family: 'Fira Sans', sans-serif; font-size: 24px;">
-  Tharoon Naveedya
+<div align="right">
+  <h2>
+    Tharoon Naveedya
+  </h2>
 </div>
 
 
